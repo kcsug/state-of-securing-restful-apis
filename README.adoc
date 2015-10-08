@@ -1,0 +1,5 @@
+The materials for http://www.meetup.com/kc-spring/events/225045959/[The State of Securing RESTful APIs with Spring]
+
+You can download the slides at:
+
+* https://github.com/kcsug/state-of-securing-restful-apis/raw/master/state-of-securing-restful-apis-with-spring.pdf[state-of-securing-restful-apis-with-spring.pdf]
